@@ -2,7 +2,8 @@
 
 2. Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan!  
    **Jawab**
-   -Dart merupakan bahasa yang digunakan untuk menggunakan framework Flutter. Memahami dasar-dasar Dart, kelebihan dan perbedaannya dari bahasa lain akan mempermudah dan meningkatkan produktivitas pengerjaan project dengan framework Flutter. Karena pengembangan Flutter melibatkan pemahaman mendalam mengenai Dart.
+
+   - Dart merupakan bahasa yang digunakan untuk menggunakan framework Flutter. Memahami dasar-dasar Dart, kelebihan dan perbedaannya dari bahasa lain akan mempermudah dan meningkatkan produktivitas pengerjaan project dengan framework Flutter. Karena pengembangan Flutter melibatkan pemahaman mendalam mengenai Dart.
 
 3. Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter.  
    **Jawab**
@@ -13,7 +14,6 @@
    - Garbage collection untuk mengelola dealokasi memori secara otomatis.
    - `Portability` bahasa dart dapat dikompilasi secara native ke ARM dan x86
    - Dalam _relational operators_ Dart, `==` tidak membandingkan referensi/alamat memori melainkan isi dari variabel tersebut dan memastikan `==` hanya digunakan pada objek dengan tipe data yang sama. Tidak seperti JavaScript yang memerlukan `===` untuk memastikan tipe datanya.
-   
 4. Soal 4  
-   **Link**
+   **Link :**  
    https://docs.google.com/presentation/d/1qqRY2ID93Igc_u4RjrSO5qAmaw0IZ8WPbaZkE392IJ0/edit?usp=sharing
