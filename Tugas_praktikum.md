@@ -1,5 +1,19 @@
 # Tugas Praktikum Pertemuan 2
 
+1. Modifikasi Kode  
+   **Code :**
+
+```
+void main() {
+  for (int i = 18; i >= 9; i--) {
+    print('Nama saya adalah Aleron Tsaqif Rakha, sekarang berumur ${i}');
+  }
+}
+```
+
+**Hasil :**  
+![alt text](tugas1.png)
+
 2. Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan!  
    **Jawab**
 
